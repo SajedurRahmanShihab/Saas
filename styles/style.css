@@ -1,4 +1,14 @@
 header {
   background-color: lightblue;
+  display: flex;
+  justify-content: center;
+}
+
+header button {
+  background-color: #38928e;
+}
+
+.contact button {
+  background-color: #38928e;
 }
 /*# sourceMappingURL=style.css.map */
